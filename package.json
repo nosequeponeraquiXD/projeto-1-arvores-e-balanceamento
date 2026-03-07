@@ -1,0 +1,17 @@
+{
+  "name": "estrutura-de-dados",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.5",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "node": "^22.22.1"
+  }
+}
